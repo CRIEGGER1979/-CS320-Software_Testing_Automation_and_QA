@@ -7,16 +7,16 @@ Included Artifacts
 
 Project One – Contact Service Module
 Files included:
-- Contact.java
-- ContactService.java
-- ContactTest.java
-- ContactServiceTest.java
+Contact.java
+ContactService.java
+ContactTest.java
+ContactServiceTest.java
 
 These artifacts demonstrate requirement-based testing, boundary value analysis, negative testing, and validation of service-layer business logic.
 
 Project Two – Summary & Reflections Report
 File included:
-- Chris Riegger - CS320 - 7-2 Project Two Submission.docx
+Chris Riegger - CS320 - 7-2 Project Two Submission.docx
 
 This report explains my testing approach, alignment to requirements, testing techniques, mindset, and reflections on quality and discipline.
 
